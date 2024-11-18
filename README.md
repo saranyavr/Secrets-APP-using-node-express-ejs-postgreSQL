@@ -1,4 +1,4 @@
-# Secret-app-using-nodejs-express-js-Ejs-postgreSQL
+# Secret-app-using-nodejs-express-js-Ejs-postgreSQL-passport.js-google oauth 2.0
 1. Install all node modules using "npm instal"
 2. Create new DB in PostgresQL in the name of "Secret" 
 3. Create users table by using QUERIES in solution.sql in Secret DB
